@@ -1,0 +1,8 @@
+BOB
+wow
+race car!
+
+NotaPalindrome
+This line is not either
+Let's try some chars!
+!@#$%^&*()_+
